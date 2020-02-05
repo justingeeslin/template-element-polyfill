@@ -1,0 +1,19 @@
+{
+  "name": "template-element-polyfill",
+  "version": "1.0.0",
+  "description": "A small polyfill to easily use the &lt;template&gt; element.",
+  "main": "template.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://justingeeslin@github.com/justingeeslin/template-element-polyfill.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justingeeslin/template-element-polyfill/issues"
+  },
+  "homepage": "https://github.com/justingeeslin/template-element-polyfill#readme"
+}
